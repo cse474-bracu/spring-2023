@@ -4,6 +4,6 @@ role: Teaching Assistant
 email: joyanta.csebracu@gmail.com
 website: https://lepotatoguy.github.io/
 photo: jj-pic.jpg
-office-hours: "Sunday, Wednesday: 8-11 PM (Online)"
+office-hours: "TBA"
 index: 2
 ---
