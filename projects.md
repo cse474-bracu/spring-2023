@@ -41,24 +41,3 @@ Usual Guidelines:
 3. Obviously, please be present 20-25 mins earlier than your slot.
 4. Rest of you are suggested to be present to watch others' presentations besides your allotted timeslot in the lab since you may find some exciting ideas and/or possible collaborations to work on with someone of the same interest in the future.
 5. Timeslot: 10-15 mins for presentation and rest for Q/A.
-
-**Projects of Fall 2022:**
-
-| Name                |                                                       Project Name (Click for Report)                                                        |
-| ------------------- | :------------------------------------------------------------------------------------------------------------------------------------------: |
-| SANJANA SABAH KHAN  |                                                                     N/A                                                                      |
-| KASHFIA HASAN       |            [PREDICTION ON THALASSEMIA CARRIER USING MACHINE LEARNING CLASSIFICATION](../projects/CSE474_18101716_FinalReport.pdf)            |
-| MOHONA JAHAN        |      [A SIMPLIFIED SUBBAND NOISE REDUCTION METHOD FOR AUDIO SIGNALS IN TELECOMMUNICATION](../projects/CSE474_18301101_FinalReport.pdf)       |
-| SADIA ALAM          |         [Simulation of Spreading of the Covid-19 Virus](../projects/Simulation_of_Spreading_of_the_Covid_19_Virus_Final_Edition.pdf)         |
-| WASHIF UDDIN AHMED  |                           [Automated Urban Planning & Urban Mobility](../projects/CSE474_18301204_FinalReport.pdf)                           |
-| IMRAN HOSSAIN IMON  |        [Signal Processing and Emotion Detection using EEG signal Data with CNN and GCN](../projects/CSE474_19101277_FinalReport.pdf)         |
-| ANNAN SARWAR        |                                                                     N/A                                                                      |
-| AKASH GHOSH         | [Image Compression for Faster and Efficient Transmission Using RNN and Auto encoder Deep CNN Combined Model](../projects/19101425_Paper.pdf) |
-| SAMIHA AFAF NEHA    |                          [Protein Domain Classification: A Compact CNN Framework](../projects/474_final_report.pdf)                          |
-| ANIKA TAHSIN        |                      [Predicting Wildfires Using Machine Learning Models](../projects/CSE474_20301104_FinalReport.pdf)                       |
-| ANKITA ROY PONTY    |                                        [Breast Cancer Prediction](../projects/CSE474_FinalReport.pdf)                                        |
-| RAISA TARANNUM      |                             [AQI Prediction Using Machine Learning](../projects/CSE474FinalReport_21141032.pdf)                              |
-| JASIA SANJANA       |                         [MesoNet simulation to detect DeepFake images](../projects/CSE474_22141069_FinalReport.pdf)                          |
-| MD. ZUNAYEDUL ISLAM |                    [Chhaya: Photorealistic Contextual Animation Generation](../projects/CSE474_22241165_FinalReport.pdf)                     |
-| RAFID RAHMAN        |             [A MODEL TO SIMULATE RAINFALL FOR BANGLADESHI SUSTAINABLE AGRICULTURE](../projects/CSE474_22341039_FinalReport.pdf)              |
-| IBNE HASSAN         |          [A comparison Stock-Price-Forecasting-Using-Deeplearning-and-Neural-Networks](../projects/CSE474_22241121_FinalReport.pdf)          |

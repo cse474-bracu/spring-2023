@@ -29,7 +29,7 @@ Simulation methods, model building, random number generator, statistical analysi
 
 **Where**: UB80401 (Theory) and TBA (Lab).
 
-**When**: Class is Thursdays and Saturdays at 2:00 - 3:39 PM, and Lab Class is TBA 11 AM-2 PM.
+**When**: Class is Monday and Tuesday at 2:00 - 3:39=0 PM, and Lab Class is Monday 11 AM-2 PM.
 
 **Links**:
 
