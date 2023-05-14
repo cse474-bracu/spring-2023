@@ -59,7 +59,7 @@ Usual Guidelines:
 | SHARTHAK DAS              |       N/A       |
 | MUBASHIRA RAHMAN          |    [Detecting Diabetes using different machine learning approaches](../projects/CSE474_19301010_FinalReport.pdf)        |
 | RAISA RAHMAN RODELA       |    [Analyzing Temperature Patterns of Dhaka city with SARIMA model](../projects/CSE474_19301011_FinalPaper.pdf)        |
-| S. M. FAZLE RABBY LABIB   | [Targeted DeepFool: A Simple and Effective Algorithm for Fooling Deep Neural Networks to Specific Classes**](../projects/CSE474_19301049_FinalReport.pdf)         |
+| S. M. FAZLE RABBY LABIB   | [Targeted DeepFool: A Simple and Effective Algorithm for Fooling Deep Neural Networks to Specific Classes******](../projects/CSE474_19301049_FinalReport.pdf)         |
 | MESHKATUL AREFIN          |  [Inflation rate analysis and predictions of Bangladesh using Monte Carlo Simulation](../projects/CSE474_19301080_FinalReport.pdf)          |
 | ZARIN TASNIM              |      N/A       |
 | JARIN TASNIM KHAN KASHFEE |       [Differential Privacy](../projects/CSE474_20101062_FinalReport.pdf)       |
