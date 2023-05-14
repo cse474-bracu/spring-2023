@@ -46,7 +46,7 @@ Usual Guidelines:
 **Final Projects:**
 
 ** - Report of The Semester
-* - Submitted but not found
+*** - Submitted but not found
 
 | Name                      | Final Grades |
 | ------------------------- | :----------: |
@@ -55,7 +55,7 @@ Usual Guidelines:
 | SAMIUL HOQUE RAFI         |      [PREDICTION ON THALASSEMIA CARRIER USING MACHINE LEARNING CLASSIFICATION](../projects/CSE474_18201178_FinalReport.pdf)       |
 | ABDULLAH ORAIB            |      N/A      |
 | AHMED ZABIR HUSSAIN       |      [Determining the Phase Transition of Material From Ordered to Disordered State Using Monte Carlo Simulation](../projects/CSE474_Final_Report_18311001.pdf)       |
-| ARNAB MITRA UTSAB         |      N/A*       |
+| ARNAB MITRA UTSAB         |      N/A***       |
 | SHARTHAK DAS              |       N/A       |
 | MUBASHIRA RAHMAN          |    [Detecting Diabetes using different machine learning approaches](../projects/CSE474_19301010_FinalReport.pdf)        |
 | RAISA RAHMAN RODELA       |    [Analyzing Temperature Patterns of Dhaka city with SARIMA model](../projects/CSE474_19301011_FinalPaper.pdf)        |
