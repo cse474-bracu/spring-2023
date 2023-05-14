@@ -24,7 +24,7 @@
 | MAIMUNA RAHMAN            |      C       |
 | MAISHA HAQUE              |      A       |
 | SHAHRIN RAHMAN            |      A       |
-| SAIWARA MAHMUD TUHEE      |              |
+| SAIWARA MAHMUD TUHEE      |      B       |
 | MD. SIFAT MAHMUD          |      C       |
 | MD. MUHTASIM MAHMUD       |      A       |
 | NAZMUL HASAN OYON         |      A-      |
