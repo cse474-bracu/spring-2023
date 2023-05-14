@@ -1,4 +1,4 @@
-**Projects of Fall 2022:**
+**Results:**
 
 | Name                      | Final Grades |
 | ------------------------- | :----------: |
