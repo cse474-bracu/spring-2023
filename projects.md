@@ -45,9 +45,7 @@ Usual Guidelines:
 
 **Final Projects:**
 
-** - Report of The Semester
-
-*** - Submitted but not found
+** - Outstanding Report
 
 | Name                      | Final Grades |
 | ------------------------- | :----------: |
