@@ -51,7 +51,7 @@ Usual Guidelines:
 | ------------------------- | :----------: |
 | MD. SHAJIDUR RAHIM        |      [A Study On Synthesis Data Augmentation and Its Various Techniques And Importance In Different Fields of Computer Vision and Machine Learning](../projects/474_18101535_Final_Thesis.pdf)          |
 | MD ABDULLAH AL SYMUM      |     [Snake game using Reinforcement Learning](../projects/Final_Project_CSE474_18201007.pdf)       |
-| SAMIUL HOQUE RAFI         |      [PREDICTION ON THALASSEMIA CARRIER USING MACHINE LEARNING CLASSIFICATION](../projects/CSE474_18201178_FinalReport.pdf)       |
+| SAMIUL HOQUE RAFI         |      N/A       |
 | ABDULLAH ORAIB            |      N/A      |
 | AHMED ZABIR HUSSAIN       |      [Determining the Phase Transition of Material From Ordered to Disordered State Using Monte Carlo Simulation](../projects/CSE474_Final_Report_18311001.pdf)       |
 | ARNAB MITRA UTSAB         |     [Advanced Time Series Analysis for Cryptocurrency Investment using Machine Learning Techniques](../projects/19101030.pdf)       |
