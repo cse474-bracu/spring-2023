@@ -10,7 +10,7 @@
 | ARNAB MITRA UTSAB         |      A       |
 | SHARTHAK DAS              |      F       |
 | MUBASHIRA RAHMAN          |      A-      |
-| RAISA RAHMAN RODELA       |      A-      |
+| RAISA RAHMAN RODELA       |      A      |
 | S. M. FAZLE RABBY LABIB   |      A+      |
 | MESHKATUL AREFIN          |      C       |
 | ZARIN TASNIM              |      F       |
@@ -27,7 +27,7 @@
 | SAIWARA MAHMUD TUHEE      |      B       |
 | MD. SIFAT MAHMUD          |      C       |
 | MD. MUHTASIM MAHMUD       |      A       |
-| NAZMUL HASAN OYON         |      A-      |
+| NAZMUL HASAN OYON         |      A      |
 | MD. RABIB HASAN           |      A       |
 | ADNAN RAHMAN ESHAN        |      A       |
 | PARTHO PROTIM SARKER JOY  |      F       |
