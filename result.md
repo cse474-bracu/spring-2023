@@ -4,7 +4,7 @@
 | ------------------------- | :----------: |
 | MD. SHAJIDUR RAHIM        |      C+      |
 | MD ABDULLAH AL SYMUM      |      C-      |
-| SAMIUL HOQUE RAFI         |      B       |
+| SAMIUL HOQUE RAFI         |      C+       |
 | ABDULLAH ORAIB            |      F       |
 | AHMED ZABIR HUSSAIN       |      A       |
 | ARNAB MITRA UTSAB         |      A       |
